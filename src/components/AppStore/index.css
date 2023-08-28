@@ -1,0 +1,19 @@
+/* Write your CSS here */
+
+.app-container {
+  background-image: linear-gradient(to bottom, #dfe2e5, #ace0f9);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.heading {
+  font-family: Bree Serif;
+  font-size: 45px;
+}
+.search-icon {
+  height: 32px;
+  width: 189px;
+}
